@@ -1,1 +1,1 @@
-document.querySelector("ul").lastElementChild.innerHTML = "I am the last child";
+document.querySelector("h1").classList.add("huge");
